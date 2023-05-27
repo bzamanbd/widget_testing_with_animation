@@ -1,16 +1,10 @@
 # widget_testing_with_animation
 
-A new Flutter project.
+It's a very basic widget testing with animated container
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This simple project will help us to learn an basic how to catch a widget and it's properties in the deferent states of it which we want to test or compare with the expect values. Here a simple animated container,the initial width is 100,height is 100,color is green and border radius is 0 but when it is clicked the value of width & height should be 200, the color changed to red and border radius should be 50. see the below screenshort.
+thanks all of my loving flutter devs. Happy coding with dart......|
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
